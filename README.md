@@ -31,7 +31,3 @@ Some planned future enhancements for the Online Shopping Webpage include:
 - Seamless Mobile Experience
 - Social Integration
 - Advanced Analytics
-
-
-# Onlineshopping
-# Onlineshopping
